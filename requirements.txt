@@ -1,4 +1,6 @@
-deepface==0.0.93
-streamlit==1.41.0
-tf-keras==2.18.0
-opencv-python-headless==4.5.3.56
+deepface
+streamlit
+tf-keras
+opencv-python-headless
+setuptools
+numpy
